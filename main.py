@@ -203,3 +203,4 @@ while (True):
     if(len(listPokemons) == 10):
         print("Parabéns! Você completou a pokedex.")
         break
+        
